@@ -28,4 +28,3 @@ GitHub:
         - pouca coisa, coisa rápida;
       - ssh: + autenticação segura, + sem necessidade de senha, + conexão automáticas, - config inicial, - gerenciamento de chaves;
         - na própria máquina;
-    
